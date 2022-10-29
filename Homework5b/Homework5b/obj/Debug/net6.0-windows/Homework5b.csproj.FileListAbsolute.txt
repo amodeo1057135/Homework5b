@@ -1,0 +1,17 @@
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\bin\Debug\net6.0-windows\Homework5b.exe
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\bin\Debug\net6.0-windows\Homework5b.deps.json
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\bin\Debug\net6.0-windows\Homework5b.runtimeconfig.json
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\bin\Debug\net6.0-windows\Homework5b.dll
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\bin\Debug\net6.0-windows\Homework5b.pdb
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\Homework5b.csproj.AssemblyReference.cache
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\Homework5b.Form1.resources
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\Homework5b.csproj.GenerateResource.cache
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\Homework5b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\Homework5b.AssemblyInfoInputs.cache
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\Homework5b.AssemblyInfo.cs
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\Homework5b.csproj.CoreCompileInputs.cache
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\Homework5b.dll
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\refint\Homework5b.dll
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\Homework5b.pdb
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\Homework5b.genruntimeconfig.cache
+C:\Users\valerio\Source\Repos\Homework5b\Homework5b\obj\Debug\net6.0-windows\ref\Homework5b.dll
